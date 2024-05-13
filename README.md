@@ -2,7 +2,7 @@
 - 👀 I'm computer Engineering Student with passion for front-end development and love exploring
         new technologies.I'm constantly exploring ways to improve my skilss and contribute to open-source community.
 - 🌱 Skills:
-- HTML,CSS,JS
+    HTML,CSS,JS
 - 📫 How to reach me - https://www.linkedin.com/in/hetvi-popat-283b49272
 - 😄 Pronouns: she/her
 
