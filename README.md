@@ -14,7 +14,7 @@
 
 - 🌎 Languages [English,Hindi,Gujarat]
 
-- 💬 Ask me about **Java,DBMS,OS**
+- 💬 Ask me about **DSA,DBMS,OS**
   
 <br>
 
