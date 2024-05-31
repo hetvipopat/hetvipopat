@@ -1,14 +1,22 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
-
 <h1 align="center">Hi 👋, I'm Hetvi</h1>
-<h3 align="center">I'm computer Engineering Student with passion for front-end development and love exploring new technologies.I'm constantly exploring ways to improve my skilss and contribute to open-source community.</h3>
+<h3 align="center">I'm computer Engineering Student with passion for front-end development and love exploring new technologies.I'm constantly exploring ways to improve my skills and contribute to open-source community.</h3>
+<br>
 <img align="right" alt="coding" src="https://th.bing.com/th/id/OIG3.UeLrdAvO_Gr1z5lYsRcM?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn>"
 
-- 🔭 I’m currently working on **Frontend Projects**
- <br>
- <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hetvipopat&label=Profile%20views&color=0e75b6&style=flat" alt="hetvipopat" /> </p>
+<br>
+
+- 🔭 I’m currently working on **Frontend Projects**
+
+- 🌱 I’m currently learning **MERN**
+
+- 🌎 Languages [English,Hindi,Gujarat]
+
+- 💬 Ask me about **Java,DBMS,OS**
+  
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hetvipopat" alt="hetvipopat" /></a> </p>
 
