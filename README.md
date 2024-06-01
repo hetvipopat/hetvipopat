@@ -1,22 +1,20 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Hetvi</h1>
-<h3 align="center">I'm computer Engineering Student with passion for front-end development and love exploring new technologies.I'm constantly exploring ways to improve my skills and contribute to open-source community.</h3>
+<h3 align="center">I'm computer Engineering Student with passion for front-end development and love exploring new technologies.I'm constantly exploring ways to improve my skilss and contribute to open-source community.</h3>
 <br>
 <img align="right" alt="coding" src="https://th.bing.com/th/id/OIG3.UeLrdAvO_Gr1z5lYsRcM?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn>"
-
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hetvipopat&label=Profile%20views&color=0e75b6&style=flat" alt="hetvipopat" /> </p>
 <br>
 
-- 🔭 I’m currently working on **Frontend Projects**
+- 🔭 I’m currently working on Frontend Projects
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning MERN
 
-- 🌎 Languages [English,Hindi,Gujarat]
+- 🌎 Languages English,Hindi,Gujarat
 
-- 💬 Ask me about **DSA,DBMS,OS**
-  
-<br>
+- 💬 Ask me about **Java,DBMS,OS**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hetvipopat" alt="hetvipopat" /></a> </p>
 
@@ -24,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hetvi popat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hetvi popat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hetvi-popat-283b49272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hetvi-popat-283b49272" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
