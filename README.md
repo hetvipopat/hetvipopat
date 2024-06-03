@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently working on Frontend Projects
 
-- 🌱 I’m currently learning MERN
-
 - 🌎 Languages English,Hindi,Gujarat
 
 - 💬 Ask me about **Java,DBMS,OS**
