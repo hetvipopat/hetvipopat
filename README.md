@@ -12,7 +12,7 @@
 
 - 🌎 Languages English,Hindi,Gujarat
 
-- 💬 Ask me about **Java,DBMS,OS**
+- 💬 Ask me about **DSA,DBMS,OS**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hetvipopat" alt="hetvipopat" /></a> </p>
 
