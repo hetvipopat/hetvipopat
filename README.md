@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 🌎 Languages [English,Hindi,Gujarat](English,Hindi,Gujarat)
+- 🌎 Languages English,Hindi,Gujarat
 
 - 💬 Ask me about **DSA,DBMS,OS**
   
