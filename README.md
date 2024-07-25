@@ -1,32 +1,30 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
-<h1 align="center">Hi 👋, I'm Hetvi</h1>
-<h3 align="center">I'm computer Engineering Student with passion for front-end development and love exploring new technologies.I'm constantly exploring ways to improve my skills and contribute to open-source community.</h3>
-<img align="right" alt="coding" src="https://th.bing.com/th/id/OIG3.UeLrdAvO_Gr1z5lYsRcM?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn>"
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hetvipopat&label=Profile%20views&color=0e75b6&style=flat" alt="hetvipopat" /> </p>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hetvi
+=============================================================================================================================
+
+I'm computer Engineering Student with passion for front-end development and love exploring new technologies.I'm constantly exploring ways to improve my skills and contribute to open-source community.
+
+* 🌍  I'm based in India
+* 🧠  I'm learning MERN Stack
+
+### Skills
 
 
-- 🔭 I’m currently working on **Frontend Projects**
-
-- 🌱 I’m currently learning **MERN**
-
-- 🌎 Languages English,Hindi,Gujarat
-
-- 💬 Ask me about **DSA,DBMS,OS**
-  
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hetvipopat" alt="hetvipopat" /></a> </p>
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hetvi-popat-283b49272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hetvi-popat-283b49272" height="30" width="40" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hetvipopat&show_icons=true&locale=en" alt="hetvipopat" /></p>
+### Socials
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetvipopat&" alt="hetvipopat" /></p>
+<p align="left"> <a href="https://www.github.com/hetvipopat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/hetvipopat"><img src="https://github-readme-stats.vercel.app/api?username=hetvipopat&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hetvipopat's GitHub stats" /></a>
+
+<a href="http://www.github.com/hetvipopat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hetvipopat&stroke=ec4899&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ec4899&currStreakLabel=0891b2&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
+
+<a href="http://www.github.com/hetvipopat"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hetvipopat&bg_color=1c1917&color=ec4899&line=0891b2&point=ec4899&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"></a>
