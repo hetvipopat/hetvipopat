@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+Only+Way,+To+Do+Great+Work+Is;To+Love+What+You+Do)](https://git.io/typing-svg)
 
 # 💫 About Me:
-I'm computer Engineering Student with passion for front-end development and love exploring new technologies.I'm constantly exploring ways to improve my skills and contribute to open-source community.<br><br>* 🌍  I'm based in India<br>* 🧠  I'm learning MERN Stack
+I'm computer Engineering Student with passion for front-end development and love exploring new technologies.I'm constantly exploring ways to improve my skills and contribute to open-source community.<br><br>* 🌍  I'm based in India<br>* 🧠  I'm learning MERN Stack
 
 
 ## 🌐 Socials:
@@ -18,8 +18,7 @@ I'm computer Engineering Student with passion for front-end development and love
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hetvipopat&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
 [![](https://visitcount.itsvg.in/api?id=hetvipopat&icon=1&color=6)](https://visitcount.itsvg.in)
 
