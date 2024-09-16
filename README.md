@@ -25,11 +25,17 @@ I'm computer Engineering Student with passion for front-end development and love
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br
 </div>
 
-## 📊 GitHub Over Time
-
-![](https://github-readme-stats.vercel.app/api?username=hetvipopat&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hetvipopat&theme=midnight-purple&hide_border=false)<br/>
-
+# 📊 GitHub Over Time
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=hetvipopat&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hetvipopat&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
