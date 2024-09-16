@@ -30,8 +30,7 @@ I'm computer Engineering Student with passion for front-end development and love
 ![](https://github-readme-stats.vercel.app/api?username=hetvipopat&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hetvipopat&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hetvipopat&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hetvipopat&bg_color=b72bf7&color=9e4c54&line=e12db1&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![image](https://github.com/user-attachments/assets/c91af2d0-058d-43c5-87f3-96e8bb638887)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hetvipopat&bg_color=9b65ec&color=db293b&line=d011c0&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 ### ✍️ Random Dev Quote
