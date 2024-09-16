@@ -51,15 +51,6 @@ I'm computer Engineering Student with passion for front-end development and love
     <td>
       <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hetvipopat&theme=tokyonight">
     </td>
-    <td>
-      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hetvipopat&theme=tokyonight">
-    </td>
-    <td>
-      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hetvipopat&theme=tokyonight">
-    </td>
-    <td>
-      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hetvipopat&theme=tokyonight&utcOffset=8">
-    </td>
   </tr>
 </table>
 </div>
