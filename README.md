@@ -29,7 +29,7 @@ I'm computer Engineering Student with passion for front-end development and love
 
 ![](https://github-readme-stats.vercel.app/api?username=hetvipopat&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hetvipopat&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hetvipopat&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
