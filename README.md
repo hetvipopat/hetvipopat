@@ -39,6 +39,10 @@ I'm computer Engineering Student with passion for front-end development and love
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hetvipopat&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 ## 🔝 Most Used Languages
 <table>
   <tr>
@@ -66,5 +70,6 @@ I'm computer Engineering Student with passion for front-end development and love
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-[![](https://visitcount.itsvg.in/api?id=hetvipopat&icon=1&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=hetvipopat&icon=2&color=6)](https://visitcount.itsvg.in)
+
 
