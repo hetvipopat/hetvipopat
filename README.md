@@ -32,10 +32,6 @@ I'm computer Engineering Student with passion for front-end development and love
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hetvipopat&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
 
 
