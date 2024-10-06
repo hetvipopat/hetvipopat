@@ -24,6 +24,8 @@ I'm computer Engineering Student with passion for front-end development and love
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
 </div>
 
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
+
 # 📊 GitHub Over Time
 ![](https://github-readme-stats.vercel.app/api?username=hetvipopat&theme=neon&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hetvipopat&theme=neon&hide_border=true)<br/>
