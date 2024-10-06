@@ -5,8 +5,6 @@
 # 💫 About Me:
 I'm computer Engineering Student with passion for front-end development and love exploring new technologies.I'm constantly exploring ways to improve my skills and contribute to open-source community.<br><br>* 🌍  I'm based in India<br>* 🧠  I'm learning MERN Stack
 
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
-
 
 
 
